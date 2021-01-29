@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+THE WEBSITE OF ARK TWO.
